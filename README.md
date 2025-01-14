@@ -4,7 +4,7 @@ clone made in Unity. The project is open-source and completely free to use. It p
 
 Feel free to download, modify, and contribute to the project! All features are 
 included and can be used for personal or educational purposes.
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Features:
 
 Fully fixed and stable game mechanics
@@ -14,7 +14,7 @@ Optimized for smooth gameplay
 Free and open-source, with no paid elements
 
 Easy-to-understand codebase for anyone looking to learn or build upon
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Getting Started:
 1. download what project/update you want
 2. export it (recommended to desktop)
