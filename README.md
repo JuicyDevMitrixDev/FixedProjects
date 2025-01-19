@@ -1,4 +1,4 @@
-# Fixed Projects
+# Fixed Projects 1.0.0
  This repository contains a fully fixed and improved version of a Gorilla Tag
 clone made in Unity. The project is open-source and completely free to use. It provides a high-quality, bug-free experience while staying true to the original Gorilla Tag gameplay mechanics.
 
